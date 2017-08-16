@@ -1,4 +1,4 @@
-VC:-  http://techbus.safaribooksonline.com/video/software-engineering-and-development/version-control/
+VC:-  http://techbus.safaribooksonline.com/video/software-engineering-and-development/version-control/ 
 1:-Version control is a tool(utility) that allows us to manage the history of our changes.
 2:- It allows us to merge the code when more then 1 team member is working on a project.
 3:- Make us aware from the merge conflict.
